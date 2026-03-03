@@ -1,5 +1,5 @@
 # Clinical Trial Enrollment Optimization
-> **Portfolio Project — ZS Associates | Clinical Operations Analytics**  
+> **Portfolio Project | Clinical Operations Analytics**  
 > Tools: Python · SQL · SQLite · Power BI · VS Code  
 > Data: ClinicalTrials.gov (3,126 real completed trials)
 
@@ -191,7 +191,7 @@ code .
 
 ---
 
-## Context for ZS Associates
+## Context
 
 This project mirrors real clinical operations analytics work:
 - Data engineering from raw regulatory data sources (equivalent to EDC exports from Medidata Rave / Veeva Vault)
